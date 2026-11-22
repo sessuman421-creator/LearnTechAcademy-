@@ -1,0 +1,6 @@
+{
+  "name": "LearnTech Academy",
+  "description": "Interactive software engineering, AI, cloud, and cybersecurity academy with hands-on Monaco coding labs, structured tracks, and AI mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
